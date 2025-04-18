@@ -87,3 +87,7 @@
 #sec::after {
     content: 'SECONDS';
 }
+
+#ap::after {
+    content: 'AM/PM';
+}
